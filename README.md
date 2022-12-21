@@ -1,4 +1,4 @@
-# Topics in Advanced Statistics
+# Topics in Advanced Statistics regarding Density Estimation
 
 For the MSc Econometrics & Management Science, specializing in Business Analytics & Quantitative Marketing [BAQM], at the Erasmus School of Economics [ESE] in Rotterdam, I have written two assignments for the course "Topics in Advanced Statistics" awarded with a 9.8 on average, concerning various topics on density estimation.
 
